@@ -21,8 +21,8 @@
       <author>
          <name>Sistema Generador de Feeds</name>
       </author>
-      <link rel="self" type="feed" href="televisadigital://fetchData?type=televisa_collection&url=http://static-feeds.esmas.com/awsfeeds/app_programs/estrellas/content/ordene-usted-mas.xml" />
-      <content src="televisadigital://fetchData?type=televisa_collection&url=http://static-feeds.esmas.com/awsfeeds/app_programs/estrellas/content/ordene-usted-mas.xml" type="application/atom+xml" />
+      <link rel="self" type="feed" href="televisadigital://fetchData?type=televisa_collection&amp;url=http://static-feeds.esmas.com/awsfeeds/app_programs/estrellas/content/ordene-usted-mas.xml" />
+      <content src="televisadigital://fetchData?type=televisa_collection&amp;url=http://static-feeds.esmas.com/awsfeeds/app_programs/estrellas/content/ordene-usted-mas.xml" type="application/atom+xml" />
       <applicaster:mediaGroup type="thumbnail">
          <applicaster:mediaItem src="http://i2.esmas.com/apps/appTelevision/file_ordene_usted_5a32c2a8d8d81_1090x614.jpg" scale="large" />
          <applicaster:mediaItem src="http://i2.esmas.com/apps/appTelevision/file_ordene_usted_5a32c2a8d8d81_1090x614.jpg" scale="small" />
